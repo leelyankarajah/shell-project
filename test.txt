@@ -1,0 +1,5 @@
+Hgb; > 13.8, < 17.2; g/dL
+BGT; > 70, < 99; mg/dL
+LDL; < 100; mg/dL
+systole; < 120; mm Hg
+diastole; < 80; mm Hg
